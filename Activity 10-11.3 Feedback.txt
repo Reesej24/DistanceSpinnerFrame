@@ -1,0 +1,3 @@
+Activity 10-11.3 Feedback
+
+I built this program based off of the JSpinner example in the GUI lecture. This one took a little bit of trial and error to figure out how to get the value from the spinner to the conversion, then to the output. It didn't take much. I built this one in class today. I am enjoying the GUI content!
